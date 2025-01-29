@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="gkb"
+                  name="GWES Knowledge Base"
+                  start-page="Home.md">
+
+    <toc-element topic="Home.md">
+        <toc-element topic="Current-Projects.md"/>
+    </toc-element>
+    <toc-element topic="EAS-js.md">
+        <toc-element topic="EASjs-Installation.md"/>
+        <toc-element topic="EASjs-Generation.md"/>
+        <toc-element topic="EASjs-SAME-Decoding.md"/>
+    </toc-element>
+    <toc-element topic="CAR.md"/>
+</instance-profile>

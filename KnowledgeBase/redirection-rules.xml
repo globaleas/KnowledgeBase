@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="65623dae">
+        <description>Created after removal of "WeatherRadio" from GWES Knowledge Base</description>
+        <accepts>WeatherRadio-Project.html</accepts>
+    </rule>
+    <rule id="262f5c13">
+        <description>Created after removal of "Central Alert Repository" from GWES Knowledge Base</description>
+        <accepts>Central-Alert-Repository.html</accepts>
+    </rule>
+    <rule id="682cac99">
+        <description>Created after removal of "WeatherRadio" from GWES Knowledge Base</description>
+        <accepts>WeatherRadio.html</accepts>
+    </rule>
+</rules>
